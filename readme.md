@@ -2,7 +2,7 @@
 
 Ever wanted to play God? Now you can! Create your own spiral galaxy with just a few clicks. Warning: May cause existential dread.
 
-![Galaxy Generator Demo](./demo.gif)
+![Galaxy Generator Demo](./demo.mp4)
 
 ## ✨ Features
 
